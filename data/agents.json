@@ -1,0 +1,48 @@
+{
+    "agents": {
+        "5d76abefdf78c": {
+            "name": "asdfgh",
+            "lastname": "asdfgh",
+            "email": "a@a.com",
+            "password": "asdfghjkjhgfds"
+        },
+        "5d76abfa5128e": {
+            "email": "a@a.com",
+            "name": "asd",
+            "lastname": "asdsds",
+            "password": "sdfghjsdfgh",
+            "properties": {}
+        },
+        "5d76ac31bc060": {
+            "email": "a@a.com",
+            "name": "asdfgh",
+            "lastname": "ASDFGHJ",
+            "password": "ASDFGHJASDFGH",
+            "properties": {}
+        },
+        "5d77a4176ad51": {
+            "name": "basdasd",
+            "lastname": "sasdasd",
+            "email": "b@b.com",
+            "password": "asdasdssdasd"
+        },
+        "5d77a4176c87e": {
+            "name": "basdasd",
+            "lastname": "sasdasd",
+            "email": "b@b.com",
+            "password": "asdasdssdasd"
+        },
+        "5d77e92354541": {
+            "name": "asdsd",
+            "lastname": "sdfghgf",
+            "email": "a@a.com",
+            "password": "sdfghjhgfdsasdfg"
+        },
+        "5d789462a8f3a": {
+            "name": "sdfghgfds",
+            "lastname": "poooopooopoo",
+            "email": "a@a.com",
+            "password": "skiddalleedskoo"
+        }
+    }
+}
